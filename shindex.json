@@ -5,29 +5,26 @@
   "author": "Soumatou",
   "cover": "https://static.wikia.nocookie.net/shadows-house-series/images/6/6e/Volume_07.jpg/revision/latest?cb=20210314140439",
   "chapters": {
-    "82": {
-      "title": "Chapter 82",
-      "volume": "10",
+    "3": {
+      "title": "Instruction Manual",
+      "volume": "1",
       "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/6qlGuI8/"
-      },
-      "last_updated": "1616368746"
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/QEHMPM1/"
+      }
     },
-     "83": {
-      "title": "Chapter 83",
-      "volume": "10",
+     "2": {
+      "title": "Broken Dolls Are...",
+      "volume": "1",
       "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/s4KD95E/"
-      },
-      "last_updated": "1616368746"
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/6k2g660/"
+      }
     },
-     "84": {
-      "title": "Chapter 84",
-      "volume": "10",
+     "1": {
+      "title": "Kate and Emilyko",
+      "volume": "1",
       "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/wZtA37m/"
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/XBE07Mu/"
       },
-      "last_updated": "1616368746"
     }
   }
 }
