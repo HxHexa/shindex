@@ -12,11 +12,32 @@
         "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/sx1rgjS/"
       }
     },
+    "74.5": {
+      "title": "Volume 6 Extra",
+      "volume": "6",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/ZfhfbAF/"
+      }
+    },
+    "62.5": {
+      "title": "Volume 5 Extra",
+      "volume": "5",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/euXnLjp/"
+      }
+    },
     "51": {
       "title": "John and Shaun",
       "volume": "5",
       "groups": {
         "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/kVvTnjc/"
+      }
+    },
+    "50.5": {
+      "title": "Volume 4 Extra",
+      "volume": "4",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/REsudRL/"
       }
     },
     "50": {
@@ -117,6 +138,13 @@
         "/a/nonymous": "/proxy/api/imgur/chapter/AZ2AUIO/"
       }
     },
+    "36.5": {
+      "title": "Volume 3 Extra",
+      "volume": "3",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/EWdtTOK/"
+      }
+    },
     "36": {
       "title": "Examiner",
       "volume": "3",
@@ -201,6 +229,13 @@
         "/a/nonymous": "/proxy/api/imgur/chapter/4mra4Qh/"
       }
     },
+    "24.5": {
+      "title": "Volume 2 Extra",
+      "volume": "2",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/6IbNQxl/"
+      }
+    },
     "24": {
       "title": "Name",
       "volume": "2",
@@ -283,6 +318,13 @@
       "volume": "2",
       "groups": {
         "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/0OpWf6S/"
+      }
+    },
+    "12.5": {
+      "title": "Volume 1 Extra",
+      "volume": "1",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/AdP8i7d/"
       }
     },
     "12": {
