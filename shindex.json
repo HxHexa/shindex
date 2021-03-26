@@ -3,7 +3,7 @@
   "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.",
   "artist": "Soumatou",
   "author": "Soumatou",
-  "cover": "https://static.wikia.nocookie.net/shadows-house-series/images/6/6e/Volume_07.jpg/revision/latest?cb=20210314140439",
+  "cover": "https://static.wikia.nocookie.net/shadows-house-series/images/6/6a/Volume_01.jpg/revision/latest?cb=20210218000949",
   "chapters": {
     "88": {
       "title": "Evaluation",
@@ -26,11 +26,88 @@
         "Rutaboggly": "/proxy/api/imgur/chapter/KBPuJ0k/"
       }
     },
+    "24": {
+      "title": "Name",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/uukvnjF/"
+      }
+    },
+    "23": {
+      "title": "Grading",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/J0pNc5R/"
+      }
+    },
+    "22": {
+      "title": "The Five Pairs of Newcomers",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/C985t6I/"
+      }
+    },
+    "21": {
+      "title": "The Night Before",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/CSJNFTK/"
+      }
+    },
     "20": {
       "title": "A Kind Shadow Noble",
       "volume": "2",
       "groups": {
-        "/a/nonymous": "/proxy/api/imgur/chapter/eWjJlYp/"
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/eWjJlYp/"
+      }
+    },
+    "19": {
+      "title": "Unnecessary Things",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/5of6STk/"
+      }
+    },
+    "18": {
+      "title": "The Late Night Patrol",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/8Ssydme/"
+      }
+    },
+    "17": {
+      "title": "Star Bearers",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/n4ShieY/"
+      }
+    },
+    "16": {
+      "title": "Cleaning Day",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/Jln0mF7/"
+      }
+    },
+    "15": {
+      "title": "Moving Doll",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/HXJZhlU/"
+      }
+    },
+    "14": {
+      "title": "Ghost",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/ro8IqJy/"
+      }
+    },
+    "13": {
+      "title": "Lesson",
+      "volume": "2",
+      "groups": {
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/0OpWf6S/"
       }
     },
     "12": {
