@@ -1,0 +1,25 @@
+{
+  "title": "Shadows House",
+  "description": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.",
+  "artist": "Soumatou",
+  "author": "Soumatou",
+  "cover": "https://static.wikia.nocookie.net/shadows-house-series/images/6/6a/Volume_01.jpg/revision/latest?cb=20210218000949",
+  "chapters": {
+    "93": {
+      "title": "Faceless Doll (2)",
+      "volume": "8",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/scZegEg/"
+      },
+      "last_updated": "1616889711"
+    },
+    "92": {
+      "title": "Faceless Doll (1)",
+      "volume": "8",
+      "groups": {
+        "Palmtop Scans & Comfy Scans": "/proxy/api/imgur/chapter/yiEFR9d/"
+      },
+      "last_updated": "1616889711"
+    }
+  }
+}
