@@ -837,6 +837,14 @@
       },
       "last_updated": "1619362041"
     },
+    "97.5": {
+      "title": "Volume 8 Extra",
+      "volume": "8",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/lXRT6XC/"
+      },
+      "last_updated": "1630266614"
+    },
     "98": {
       "title": "The Trap is Set",
       "volume": "9",
@@ -909,13 +917,13 @@
       },
       "last_updated": "1626699481"
     },
-    "107.1": {
-      "title": "(Raw) Soliloquy",
+    "107": {
+      "title": "Soliloquy",
       "volume": "9",
       "groups": {
-        "ArTsunJai": "/proxy/api/imgur/chapter/eckuy8H/"
+        "ArTsunJai": "/proxy/api/imgur/chapter/Vb52HmY/"
       },
-      "last_updated": "1629909152"
+      "last_updated": "1630266614"
     }
   }
 }
