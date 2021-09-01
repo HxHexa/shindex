@@ -921,9 +921,17 @@
       "title": "Soliloquy",
       "volume": "9",
       "groups": {
-        "ArTsunJai": "/proxy/api/imgur/chapter/Vb52HmY/"
+        "Palmtop Scans": "/proxy/api/imgur/chapter/Vb52HmY/"
       },
       "last_updated": "1630266614"
+    },
+    "108.1": {
+      "title": "(Raw) Upbringing",
+      "volume": "9",
+      "groups": {
+        "ArTsunJai": "/proxy/api/imgur/chapter/K53Ki7L/"
+      },
+      "last_updated": "1630510382"
     }
   }
 }
