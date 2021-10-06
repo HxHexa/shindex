@@ -956,6 +956,14 @@
         "Palmtop Scans": "/proxy/api/imgur/chapter/adc4BrY/"
       },
       "last_updated": "1633442147"
+    },
+    "112.1": {
+      "title": "入館",
+      "volume": "9",
+      "groups": {
+        "ArTsunJai": "/proxy/api/imgur/chapter/85pqpB1/"
+      },
+      "last_updated": "1633534229"
     }
   }
 }
