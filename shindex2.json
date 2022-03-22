@@ -997,6 +997,14 @@
       },
       "last_updated": "1636380717"
     },
+    "115.5": {
+      "title": "Volume 10 Extra",
+      "volume": "10",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/pvFVqHX/"
+      },
+      "last_updated": "1647956712"
+    },
     "116": {
       "title": "The First Obligation",
       "volume": "11",
@@ -1077,13 +1085,13 @@
       },
       "last_updated": "1647385273"
     },
-    "126.1": {
-      "title": "強さの秘訣 (raw)",
+    "126": {
+      "title": "The Key to Strength",
       "volume": "11",
       "groups": {
-        "Palmtop Scans": "/proxy/api/imgur/chapter/NLOGELO/"
+        "Palmtop Scans": "/proxy/api/imgur/chapter/VNjq5jU/"
       },
-      "last_updated": "1647443474"
+      "last_updated": "1647956712"
     }
   }
 }
