@@ -1173,14 +1173,6 @@
       },
       "last_updated": "1657066203"
     },
-    "137.1": {
-      "title": "がらくた (raw)",
-      "volume": "11",
-      "groups": {
-        "Palmtop Scans": "/proxy/api/imgur/chapter/XojRom8/"
-      },
-      "last_updated": "1657154545"
-      },
     "137": {
       "title": "Garbage",
       "volume": "11",
@@ -1188,6 +1180,14 @@
         "Palmtop Scans": "/proxy/api/imgur/chapter/HvqRHEC/"
       },
       "last_updated": "1657154545"
+    },
+    "138": {
+      "title": "Baton Relay",
+      "volume": "11",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/IiMFy69/"
+      },
+      "last_updated": "1658111707"
     }
   }
 }
