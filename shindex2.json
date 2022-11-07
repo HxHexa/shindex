@@ -1087,7 +1087,7 @@
     },
     "125": {
       "title": "Bitterness and Sweetness",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/79kwaRg/"
       },
@@ -1095,7 +1095,7 @@
     },
     "126": {
       "title": "The Key to Strength",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/VNjq5jU/"
       },
@@ -1103,7 +1103,7 @@
     },
     "127": {
       "title": "Helping Hand (1)",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/pet1KNR/"
       },
@@ -1111,7 +1111,7 @@
     },
     "128": {
       "title": "Helping Hand (2)",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/nBUiYiY/"
       },
@@ -1119,7 +1119,7 @@
     },
     "129": {
       "title": "Mysterious Means",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/bKLb3Oq/"
       },
@@ -1127,7 +1127,7 @@
     },
     "130": {
       "title": "Experiment and Miscalculation",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/44GiSte/"
       },
@@ -1135,7 +1135,7 @@
     },
     "131": {
       "title": "Proving the Hypothesis",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/fAEkm7Z/"
       },
@@ -1143,7 +1143,7 @@
     },
     "132": {
       "title": "Trump Card",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/wjh6su5/"
       },
@@ -1151,11 +1151,19 @@
     },
     "133": {
       "title": "Peerless Existence",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/xf4xbfU/"
       },
       "last_updated": "1654565044"
+    },
+    "133.5": {
+      "title": "Volume 12 Extra",
+      "volume": "12",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/ZeX60MK/"
+      },
+      "last_updated": "1667778960"
     },
     "134": {
       "title": "Heart",
@@ -1260,6 +1268,22 @@
         "Palmtop Scans": "/proxy/api/imgur/chapter/nAhaxqZ/"
       },
       "last_updated": "1666267996"
+    },
+    "147": {
+      "title": "Some Scars Don't Heal",
+      "volume": "",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/lfeaZa6/"
+      },
+      "last_updated": "1667778960"
+    },
+    "148": {
+      "title": "Confession",
+      "volume": "Sincerity",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/uPWKEy7/"
+      },
+      "last_updated": "1667778960"
     }
   }
 }
