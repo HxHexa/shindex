@@ -1316,6 +1316,14 @@
         "Palmtop Scans": "/proxy/api/imgur/chapter/nytKGOW/"
       },
       "last_updated": "1672705602"
+    },
+    "153": {
+      "title": "Election Results",
+      "volume": "",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/PxT2y0L/"
+      },
+      "last_updated": "1673066151"
     }
   }
 }
