@@ -1429,6 +1429,14 @@
 			},
 			"last_updated": "1684459063"
 		},
+		"164.5": {
+			"title": "Volume 15 Extra",
+			"volume": "",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgchest/chapter/ne7bwqxmm75/"
+			},
+			"last_updated": "1702434464"
+		},
 		"165": {
 			"title": "Tragedy and Opportunity",
 			"volume": "",
@@ -1548,6 +1556,14 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/OQR1kNw/"
 			},
 			"last_updated": "1701233610"
+		},
+		"180": {
+			"title": "The Curse's True Form",
+			"volume": "",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgchest/chapter/n87w6mr3xyx/"
+			},
+			"last_updated": "1702434464"
 		}
 	}
 }
