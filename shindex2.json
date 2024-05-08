@@ -1439,7 +1439,7 @@
 		},
 		"165": {
 			"title": "Tragedy and Opportunity",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/EVcpHgO/"
 			},
@@ -1447,7 +1447,7 @@
 		},
 		"166": {
 			"title": "Means and Ends",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/8HRQz8N/"
 			},
@@ -1455,7 +1455,7 @@
 		},
 		"167": {
 			"title": "Disciplinary Team",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/IdWrOCq/"
 			},
@@ -1463,7 +1463,7 @@
 		},
 		"168": {
 			"title": "Behind the Curtains",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/Jipnp2j/"
 			},
@@ -1471,7 +1471,7 @@
 		},
 		"169": {
 			"title": "The Five New Pairs",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/ua91AIe/"
 			},
@@ -1479,7 +1479,7 @@
 		},
 		"170": {
 			"title": "Behind the Scenes",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/JI0PHDL/"
 			},
@@ -1487,7 +1487,7 @@
 		},
 		"171": {
 			"title": "King",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/8MxstDK/"
 			},
@@ -1495,7 +1495,7 @@
 		},
 		"172": {
 			"title": "The First Trial",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/Lbny9uW/"
 			},
@@ -1503,7 +1503,7 @@
 		},
 		"173": {
 			"title": "Solidarity",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/ZNKNAL1/"
 			},
@@ -1511,7 +1511,7 @@
 		},
 		"174": {
 			"title": "Their Secret",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgur/chapter/k0XGr4f/"
 			},
@@ -1519,11 +1519,19 @@
 		},
 		"175": {
 			"title": "The Wall that Blocks the Way",
-			"volume": "",
+			"volume": "16",
 			"groups": {
 				"Palmtop Scans": "/proxy/api/imgchest/chapter/wl7le8op4x2/"
 			},
 			"last_updated": "1697112190"
+		},
+		"175.5": {
+			"title": "Volume 16 Extra",
+			"volume": "",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgchest/chapter/9rydz8oza4k/"
+			},
+			"last_updated": "1715126438"
 		},
 		"176": {
 			"title": "Suggestion and Awakening",
