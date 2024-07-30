@@ -1724,6 +1724,14 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/9s667q0/"
 			},
 			"last_updated": "1721822084"
+		},
+		"200": {
+			"title": "Shadows House",
+			"volume": "",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/QqCVc3a/"
+			},
+			"last_updated": "1722301104"
 		}
 	}
 }
