@@ -1852,6 +1852,22 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/V5ZCyCe/"
 			},
 			"last_updated": "1743683122"
+		},
+	        "215": {
+	            	"title": "Records and Memory",
+	            	"volume": "",
+	            	"groups": {
+	                	"Palmtop Scans": "/proxy/api/imgur/chapter/Xm2kgOn/"
+	            	},
+	            	"last_updated": "1747874107"
+	        },
+	        "216": {
+	            	"title": "Louise's Awakening",
+	            	"volume": "",
+	            	"groups": {
+	                	"Palmtop Scans": "/proxy/api/imgur/chapter/nSiYlnF/"
+	            	},
+	            	"last_updated": "1747874107"
 		}
 	}
 }
