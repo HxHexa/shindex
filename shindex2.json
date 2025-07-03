@@ -1884,6 +1884,14 @@
 	                	"Palmtop Scans": "/proxy/api/imgur/chapter/TxqoiOM/"
 	            	},
 	            	"last_updated": "1751297846"
+		},
+	        "219": {
+	            	"title": "Face-to-Face",
+	            	"volume": "",
+	            	"groups": {
+	                	"Palmtop Scans": "/proxy/api/imgur/chapter/B7UjFJM/"
+	            	},
+	            	"last_updated": "1751508256"
 		}
 	}
 }
