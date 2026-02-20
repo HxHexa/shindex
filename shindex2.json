@@ -34,7 +34,9 @@
       "volume": "1",
       "last_updated": "1616889711",
       "groups": {
-        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/i4pAxyx/"
+        "Tonikaku Scans & /a/nonymous": [
+          "https://drive.usercontent.google.com/download?id=1d-u5MjD7sdOZyDSHopv4wLCoZU5nIL_8"
+        ]
       }
     },
     "5": {
