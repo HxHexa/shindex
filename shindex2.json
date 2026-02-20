@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1616889711",
       "groups": {
-        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/QEHMPM1/"
+        "Tonikaku Scans & /a/nonymous": "/proxy/api/catbox/chapter/lhd15b/"
       }
     },
     "4": {
@@ -42,7 +42,20 @@
       "volume": "1",
       "last_updated": "1616889711",
       "groups": {
-        "Tonikaku Scans & /a/nonymous": "/proxy/api/imgur/chapter/cZJmFIj/"
+        "Tonikaku Scans & /a/nonymous": [
+          "https://drive.usercontent.google.com/download?id=1d-u5MjD7sdOZyDSHopv4wLCoZU5nIL_8",
+          "https://drive.usercontent.google.com/download?id=1MdzUnFe-VwQVe7qNhiVeBbC9rXwXdgEj",
+          "https://drive.usercontent.google.com/download?id=1akU-USIVdNCg_nUDcXkCJ_AEz3us6o18",
+          "https://drive.usercontent.google.com/download?id=1XHcT5x86NVFzOQm_BWlBHmkaFMLPPV33",
+          "https://drive.usercontent.google.com/download?id=1acf6H-XJ2jr5EQYIQYQ1Spb4r1viI7B8",
+          "https://drive.usercontent.google.com/download?id=1PX8iweu5cvA8B-vtpW5Ah9OJmy7jF8g1",
+          "https://drive.usercontent.google.com/download?id=1PhXh_c42Mr_XxVF9aSyzneqL61ch6pAG",
+          "https://drive.usercontent.google.com/download?id=1HKs25K02jjOps7ob36ZLsmRUjlQPS1aE",
+          "https://drive.usercontent.google.com/download?id=10MvtdQLlr21pFzTLKfTyqrZuIW75d9dh",
+          "https://drive.usercontent.google.com/download?id=1vyxhWIB_uKUtQvSgbCckJz1Ep43IPxkj",
+          "https://drive.usercontent.google.com/download?id=1UwMwfs6xMCBxnVjRTqhcVsawHTcAWhPU",
+          "https://drive.usercontent.google.com/download?id=1HQR0PB5Vpaz1-8lwJ6Q-kmTCrKWkRA6Z"
+        ]
       }
     },
     "6": {
